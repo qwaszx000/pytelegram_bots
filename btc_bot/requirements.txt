@@ -1,0 +1,6 @@
+urllib3
+chardet==3.0.4
+requests
+aiohttp==1.0.5
+wheel==0.31.1
+certifi
